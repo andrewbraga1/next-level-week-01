@@ -16,7 +16,7 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/andrewbraga1/next-level-week-01">
 	
   <a href="https://www.linkedin.com/in/andrew-braga-rodrigues/">
-    <img alt="Made by DanielObara" src="https://img.shields.io/badge/made%20by-AndrewBraga-%2304D361">
+    <img alt="Made by AndrewBraga" src="https://img.shields.io/badge/made%20by-AndrewBraga-%2304D361">
   </a>
 
   <a href="https://github.com/andrewbraga1/next-level-week-01/commits/master">
@@ -86,22 +86,22 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/DanielObara/NLW-1.0
+$ git clone https://github.com/andrewbraga1/next-level-week-01
 
 # Go into the repository
-$ cd NLW-1.0/backend
+$ cd next-level-week-01/server
 
 # Install dependencies
-$ yarn install
+$ npm install or yarn install
 
 # Run Migrates
-$ yarn knex:migrate
+$ npm knex:migrate or yarn knex:migrate
 
 # Run Seeds
-$ yarn knex:seed
+$ npm knex:seed or yarn knex:seed
 
 # Start server
-$ yarn dev
+$ npm run dev or yarn dev
 
 # running on port 3333
 ```
@@ -110,34 +110,34 @@ $ yarn dev
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/DanielObara/NLW-1.0
+$ git clone https://github.com/andrewbraga1/next-level-week-01
 
 # Go into the repository
-$ cd NLW-1.0/frontent
+$ cd next-level-week-01/web
 
 # Install dependencies
-$ yarn install
+$ npm install or yarn install
 
 # Run
-$ yarn start
+$ npm start or yarn start
 
-# running on port 3000
+# running on default port
 ```
 
 ### Install Mobile
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/DanielObara/NLW-1.0
+$ git clone https://github.com/andrewbraga1/next-level-week-01
 
 # Go into the repository
-$ cd NLW-1.0/mobile
+$ cd next-level-week-01/mobile
 
 # Install dependencies
-$ yarn install
+$ npm install or yarn install
 
 # Run
-$ yarn start
+$ npm start or expo start or yarn start
 
 # Expo will open, just scan the qrcode on terminal or expo page
 
