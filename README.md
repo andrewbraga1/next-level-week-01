@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src=".github/logo.svg" width="250px" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="repo/WebHome.png" width="250px" />
 </h1>
 
 <h4 align="center"> 
@@ -46,11 +46,11 @@ Through our method you will learn new tools, learn about new technologies and di
 An online and completely free event that will help you take the next step in your evolution as a dev.
 
 ### Days
-- Dia 1: Acelerando sua evolução 01/06 - ✅
-- Dia 2: Olhando para as oportunidades 02/06 - ✅
-- Dia 3: A escolha da Stack 03/06 - ✅
-- Dia 4: Até 2 anos em 2 meses 04/06 - ✅
-- Dia 5: Milha extra 05/06 - ✅
+- Dia 1: Acelerando sua evolução 01/06 - <img src="https://media.giphy.com/media/LkwOhjcFItMrOgFuww/giphy.gif" width="30"height="30">
+- Dia 2: Olhando para as oportunidades 02/06 - <img src="https://media.giphy.com/media/LkwOhjcFItMrOgFuww/giphy.gif" width="30"height="30">
+- Dia 3: A escolha da Stack 03/06 - <img src="https://media.giphy.com/media/LkwOhjcFItMrOgFuww/giphy.gif" width="30"height="30">
+- Dia 4: Até 2 anos em 2 meses 04/06 - <img src="https://media.giphy.com/media/LkwOhjcFItMrOgFuww/giphy.gif" width="30"height="30">
+- Dia 5: Milha extra 05/06 - <img src="https://media.giphy.com/media/LkwOhjcFItMrOgFuww/giphy.gif" width="30"height="30">
 
 ## 💻 Project
 
@@ -156,7 +156,7 @@ $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 After merging your receipt request to done, you can delete a branch from yours.
 
 
-## <img src="https://media.giphy.com/media/xTk9ZvMnbIiIew7IpW/giphy.gif" width="30" height="30"> Extras:
+## <img src="https://media.giphy.com/media/sxJ1nCeUoNSfe/giphy.gif" width="30" height="30"> Extras:
 
 - Improve your own documetation on github;
 - Make posts over professional social media; 
