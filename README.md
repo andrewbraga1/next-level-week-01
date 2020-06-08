@@ -46,11 +46,11 @@ Through our method you will learn new tools, learn about new technologies and di
 An online and completely free event that will help you take the next step in your evolution as a dev.
 
 ### Days
-- Dia 1: Acelerando sua evolução 01/06 - <img src="https://media.giphy.com/media/LkwOhjcFItMrOgFuww/giphy.gif" width="30"height="30">
-- Dia 2: Olhando para as oportunidades 02/06 - <img src="https://media.giphy.com/media/LkwOhjcFItMrOgFuww/giphy.gif" width="30"height="30">
-- Dia 3: A escolha da Stack 03/06 - <img src="https://media.giphy.com/media/LkwOhjcFItMrOgFuww/giphy.gif" width="30"height="30">
-- Dia 4: Até 2 anos em 2 meses 04/06 - <img src="https://media.giphy.com/media/LkwOhjcFItMrOgFuww/giphy.gif" width="30"height="30">
-- Dia 5: Milha extra 05/06 - <img src="https://media.giphy.com/media/LkwOhjcFItMrOgFuww/giphy.gif" width="30"height="30">
+- Dia 1: Acelerando sua evolução 01/06 - ✔️
+- Dia 2: Olhando para as oportunidades 02/06 - ✔️
+- Dia 3: A escolha da Stack 03/06 - ✔️
+- Dia 4: Até 2 anos em 2 meses 04/06 - ✔️
+- Dia 5: Milha extra 05/06 - ✔️
 
 ## 💻 Project
 
@@ -58,7 +58,7 @@ Ecoleta is a project developed based on international environment week.
 That aims to connect people to companies that collect specific waste such as light bulbs, batteries, cooking oil, etc.
 
 <h1 align="center">
-    <img alt="Example" title="Example" src="repo/WebHome.svg" width="500px" />
+    <img alt="Example" title="Example" src="repo/WebHome.png" width="750" height="450" />
 </h1>
 
 
